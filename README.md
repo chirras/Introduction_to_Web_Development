@@ -2,5 +2,4 @@
 
 This repository is your starting point for the assignment.
 
-Link to GitHub pages website: https://chirras.github.io
-
+Link to GitHub pages website: https://chirras.github.io/
